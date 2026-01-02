@@ -1,2 +1,7 @@
 # diabetes
 Project OverviewThis repository contains a machine learning pipeline designed to predict whether a patient has diabetes based on specific diagnostic measurements. This project utilizes the Pima Indians Diabetes Dataset to train a predictive model that can assist in early screening and risk assessment.Shutterstock📊 Dataset FeaturesThe model analyzes the following physiological factors:Pregnancies: Number of times pregnant.Glucose: Plasma glucose concentration (2 hours in an oral glucose tolerance test).Blood Pressure: Diastolic blood pressure (mm Hg).Skin Thickness: Triceps skin fold thickness (mm).Insulin: 2-hour serum insulin (mu U/ml).BMI: Body mass index (weight in $kg/(height\ in\ m)^2$).Diabetes Pedigree Function: A function that scores likelihood of diabetes based on family history.Age: Age in years.
+Diabetes is a chronic metabolic disorder characterized by elevated levels of blood glucose (blood sugar). Over time, high blood sugar leads to serious damage to the heart, blood vessels, eyes, kidneys, and nerves.
+
+
+Why use Machine Learning for Diabetes?
+Early detection is the most effective way to manage diabetes and prevent long-term complications. However, many individuals remain undiagnosed in the early stages because symptoms can be subtle. By using machine learning models, we can identify high-risk patterns across multiple health indicators—such as insulin levels, body mass index (BMI), and genetic predisposition—before the condition becomes critical.
